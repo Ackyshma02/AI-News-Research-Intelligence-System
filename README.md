@@ -44,6 +44,7 @@ The long-term goal is to enable **semantic search, retrieval, and intelligent qu
 
 ## 📂 Project Structure
 
+```
 AI_INSIGHTS/
 │
 ├── db/
@@ -55,6 +56,9 @@ AI_INSIGHTS/
 │   ├── arxiv_ingest.py   # Fetches and processes arXiv papers
 │
 ├── create_tables.py      # Initializes database tables
+└── README.md
+```
+
 
 
 ## ▶️ Running the Project
